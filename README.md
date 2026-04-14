@@ -56,4 +56,4 @@ The SDN controller successfully controls traffic and blocks malicious hosts dyna
 
 ## Screenshots
 
-Refer to screenshots folder
+Screenshots are included in this repository.
